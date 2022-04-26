@@ -1,0 +1,89 @@
+/* Navigation styles */
+.logo{
+    background-color:white;
+    height:238px;
+    background-image:url("/images/jakes-logo.png");
+    background-repeat:no-repeat;
+    background-position:center;
+}
+.nav{
+display:flex;
+background-color:black;
+padding:20px;
+.class1, .class2,.class3{
+    height:50px;display:flex;}
+justify-content:center;
+align-items:center;
+.width.left, width.right:25%
+.width.center:50;}
+.className{
+    color:white;
+    padding:10px;
+    font-size:18px;
+    text-decoration:none;
+    font-family:arial;
+    <button>
+    color:black;
+    font-size:16px;
+    padding:15px;
+    width:50%
+.button-right:
+background-color:yellow;
+.button-left:
+background-color:skyblue;}
+)
+/* Column styles */
+.column{display:flex;
+    height:1200px;
+    width:800px;
+    flex-direction:column;
+    Margin:auto;}
+
+.meal{
+height:100%;
+width:100%;
+display:flex;
+align-items:flex-end;
+margin-bottom:20%
+background-repeat:no repeat;
+background-positon:center;
+background-image:url("/images/steaks.png");}
+
+.meal2{
+height:100%;
+width:100%;
+display:flex;
+align-items:flex-end;
+margin-bottom:20;
+background-repeat:no-repeat;
+background-position:center
+background-image:url("/images/soups.png");
+
+.meal3{
+height:100%
+width:100%
+display:flex;
+align-items:flex-end
+margin-bottom:20
+background-repeat:no-repeat
+background-position:center
+background-image:url("/images/cheesecake.png");}
+
+.text{
+background:rgb (0,0,0,0.7);
+width:100%;
+padding:20px 40px;
+color:rgba (255,255,255,0.7);
+font-family: Arial, Helvetica, Sans-serif;
+font-family:Georgia,Times New Roman, Times, Serif; }
+/* Footer Styles */
+.facebook{
+    color:lightblue;
+    font-size:18px;
+    height:
+    width:
+    font-family: Arial, san serif;
+    justify-content:center;
+    align-items:flex-end;
+    flex-direction:row;
+}
